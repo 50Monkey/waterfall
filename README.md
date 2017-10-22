@@ -1,2 +1,0 @@
-# waterfall
-image waterfall show
